@@ -5,4 +5,4 @@ while (a < 13) {
 	a = a + b
 	}
 
-var c = 5
+var c = 6
