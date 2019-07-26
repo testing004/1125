@@ -1,6 +1,6 @@
 var a = 0
 var b = 1
 
-while (a < 15) {
+while (a < 13) {
 	a = a + b
 	}
