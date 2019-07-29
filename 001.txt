@@ -5,4 +5,4 @@ while (d < 17) {
 	a = a + b
 	b++
 	}
-\var =c
+var c = 100 
