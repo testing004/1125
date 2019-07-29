@@ -1,8 +1,14 @@
 var a = 5
 var b = 1
 
+<<<<<<< Updated upstream
 while (d < 17) {
 	a =! a + b
 	b++
 	}
 var c = 100 
+=======
+while (a < 13) {
+	a = a + b
+	}
+>>>>>>> Stashed changes
